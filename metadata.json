@@ -1,0 +1,6 @@
+{
+  "name": "ZeroPass - Decentralized Identity & Verifiable Credentials",
+  "description": "ZeroPass is a privacy-preserving identity infrastructure platform for verifiable credentials, selective disclosure, zero-knowledge proofs, and cryptographic trust.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
